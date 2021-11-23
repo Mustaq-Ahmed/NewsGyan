@@ -36,3 +36,8 @@
     transform: rotate(360deg);
   }
 }
+
+.nav-link:hover,
+.navbar-brand:hover{
+  font-weight: bold;
+}
